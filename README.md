@@ -2,7 +2,7 @@
 
 This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
-![Text box that says name my pet with an icon of a dog](https://user-images.githubusercontent.com/10623307/213887080-b2bc4645-7fdb-4dbd-ae42-efce00d0dc29.png)
+<img width="815" alt="Screenshot 2023-09-23 at 1 15 45 AM" src="https://github.com/ert485/openai-quickstart-node/assets/6201488/ed110ca2-ddf0-499f-ad34-5a2e5898ada1">
 
 
 ## Setup
